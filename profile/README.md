@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>We find bugs in open-source hardware and software.</h3>
+<h3>Our AI agents find bugs in open-source hardware and software.</h3>
 
 </div>
 

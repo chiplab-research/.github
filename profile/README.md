@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chiplab-research/.github/main/profile/cube.png" width="110" alt="ChipLab" />
+<img src="https://raw.githubusercontent.com/chiplab-research/.github/main/profile/cube.png" width="96" alt="ChipLab" />
 
-# ChipLab
-
-**Verified bugs. Fixed upstream.**
-
-<img src="https://img.shields.io/badge/fixed_upstream-11-FF3D68?style=for-the-badge" alt="11 fixed upstream" />
-<img src="https://img.shields.io/badge/projects-10-6C2BFF?style=for-the-badge" alt="10 projects" />
-<img src="https://img.shields.io/badge/merged_fixes-5-FF9F1C?style=for-the-badge" alt="5 merged fixes" />
+<h3>We find bugs in open-source hardware and software.</h3>
 
 </div>
 

@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chiplab-research/.github/main/profile/cube.png" width="96" alt="ChipLab" />
-
 <h3>We find bugs in open-source hardware and software.</h3>
 
 </div>
-
-<br />
 
 <div align="center">
 

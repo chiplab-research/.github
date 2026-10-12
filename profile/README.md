@@ -14,6 +14,8 @@
 
 <br />
 
+<div align="center">
+
 | Project | Found | Fix |
 |:---|:---|:---|
 | **[LiteDRAM](https://github.com/enjoy-digital/litedram)** | AXI write responses lost under BREADY backpressure | [![merged](https://img.shields.io/badge/%23415-merged-6C2BFF?style=flat-square)](https://github.com/enjoy-digital/litedram/pull/415) |
@@ -27,6 +29,8 @@
 | **[GTKWave](https://github.com/gtkwave/gtkwave)** | `vcd2lxt2` storing wrong settled values | [![fixed](https://img.shields.io/badge/%23521-fixed-FF3D68?style=flat-square)](https://github.com/gtkwave/gtkwave/issues/521) |
 | **[tract](https://github.com/sonos/tract)** | Signed division by a power of two rounding negatives | [![fixed](https://img.shields.io/badge/%233003-fixed-FF3D68?style=flat-square)](https://github.com/sonos/tract/issues/3003) |
 | **[BaseJump STL](https://github.com/bespoke-silicon-group/basejump_stl)** | `bsg_mul_add_unsigned` output width | [![fixed](https://img.shields.io/badge/%23757-fixed-FF3D68?style=flat-square)](https://github.com/bespoke-silicon-group/basejump_stl/issues/757) |
+
+</div>
 
 <br />
 

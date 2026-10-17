@@ -1,4 +1,4 @@
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/poster-tall-dark.svg"><source media="(max-width: 600px)" srcset="assets/poster-tall-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/poster-dark.svg"><img alt="ChipLab: AI agents that design chips, check open hardware and software against their specs, and send the fixes upstream. 37 fixes merged upstream, 57 of our bug reports fixed by maintainers, 202 fixes in review." src="assets/poster-light.svg" width="100%"></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/poster-tall-dark.svg"><source media="(max-width: 600px)" srcset="assets/poster-tall-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/poster-dark.svg"><img alt="ChipLab: AI agents that design chips, check open hardware and software against their specs, and send the fixes upstream. 37 fixes merged upstream, 58 of our bug reports fixed by maintainers, 201 fixes in review." src="assets/poster-light.svg" width="100%"></picture>
 
 ### Recently merged
 

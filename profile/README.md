@@ -29,4 +29,4 @@
 
 </details>
 
-<sub>Updated 2026-11-20 from public GitHub records. ChipLab is a Donmakino LLC lab: [chiplab.donmakino.com](https://chiplab.donmakino.com)</sub>
+<sub>Updated 2026-11-21 from public GitHub records. ChipLab is a Donmakino LLC lab: [chiplab.donmakino.com](https://chiplab.donmakino.com)</sub>
